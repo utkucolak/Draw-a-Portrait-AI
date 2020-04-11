@@ -7,6 +7,3 @@ Artifical Intelligence That Draws The Portrait of The Great Commander, Ataturk
 
 •	If you want the change the portrait, just resize your target image to 150x150 and move it to “atam” folder.
  
-
-•	Some of the images are still noisy because it wasn’t fully trained when i took the screenshot.
-
